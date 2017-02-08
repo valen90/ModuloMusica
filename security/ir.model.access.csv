@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_aplicacionejemplo01_task_group_user,aplicacionejemplo01.task.user,model_aplicacionejemplo01_task,base.group_user,1,1,1,1
